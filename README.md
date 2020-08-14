@@ -12,12 +12,12 @@
 <br> `redis-server`<br>
 <br>🌀¦ اترك الترمنال مفتوح وافتح ترمنال جديد وخلي<br>
 
-<br>` git clone https://github.com/alqaser/KEEPER.git && cd KEEPER && chmod +x keeper && ./keeper `<br>
+<br>` git clone https://github.com/mohamed-hmd/sultanipa.git && cd sultanipa && chmod +x keeper && ./keeper `<br>
 
 # <p align="center">لتنصيبه بالأكواد 
 ## افتح ترمنال وخلي الكود بعد كل كود انتر
 
--    `git clone https://github.com/alqaser/KEEPER.git` 
+-    `git clone https://github.com/mohamed-hmd/sultanipa.git` 
 
 -    `cd KEEPER`
 
@@ -34,7 +34,7 @@
 
 ##  يشتغل تلقائيا بعد ه سد الترمنال وافتح جديد وخلي
 
-##   `cd KEEPER && screen ./keeper`
+##   `cd sultanipa && screen ./keeper`
 
 ##  💬¦ البوت خالي من الحقوق
 
